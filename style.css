@@ -26,6 +26,7 @@ button {
     background-color: cornsilk;
     border-radius: 30px;
     height: 50px;
+    width: 60px;
     align-items: flex-end;
 }
 
